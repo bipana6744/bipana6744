@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bipana6744
+- 👋 Hi, I’m @bipana
 - 👀 I’m interested in FrontEnd Web Development
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on ...
